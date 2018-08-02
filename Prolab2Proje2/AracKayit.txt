@@ -1,0 +1,10 @@
+﻿Araba_1,Bmw,750000,siyah,2018,4,dizel,2,280
+Bisiklet_1,castello,900,kırmızı,2017,2,null,1,35
+Gemi_1,gemi,358900,beyaz,2015,null,benzin,250,70
+Ucak_1,F 16,9999999,yeşil,2018,3,jet yakıtı,2,9999999
+Araba_1,,,,,,,,0
+UcanGemi_1,UcanGemi,,,,,null,,0
+UcanGemi_6,UcanGemi,,,,,null,,0
+Araba_7,ZXC,,,,,,,0
+Araba_8,ZXC,,,,,,,0
+Araba_9,knjkh,,,,,,,0
